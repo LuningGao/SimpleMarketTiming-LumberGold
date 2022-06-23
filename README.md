@@ -1,7 +1,5 @@
 # Lumber-Gold Market Timing Strategy
 
-Clone this repo with `git clone git@github.com:CUATS/SimpleMarketTiming-LumberGold.git` or `git clone https://github.com/CUATS/SimpleMarketTiming-LumberGold.git` if you do not have `ssh` set up. Copy the python code into quantconnect.
-
 ## Overview
 
 A simple [market timing strategy](https://www.investopedia.com/terms/m/markettiming.asp) that alternates between an aggressive or defensive portfolio based on the lumber vs gold price.
